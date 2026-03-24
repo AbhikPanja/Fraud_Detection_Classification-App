@@ -60,7 +60,7 @@ The model was evaluated using appropriate metrics for imbalanced data:
 - F1-score  
 - ROC-AUC Score  
 
-##📊 Model performance visualization:
+## 📊 Model performance visualization:
 
 ![Model Performance](assets/results.png)
 
