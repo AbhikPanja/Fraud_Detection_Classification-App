@@ -69,3 +69,10 @@ The model was evaluated using appropriate metrics for imbalanced data:
 ## 5. Conclusion
 
 This project demonstrates the development of an end-to-end fraud detection system using machine learning. Through data analysis and feature engineering, meaningful patterns were identified to improve model performance. A pipeline-based approach ensured efficient preprocessing and training, while deployment using Streamlit enabled real-time predictions. The project highlights the importance of handling imbalanced data and building practical, deployable ML solutions.
+
+## 📂 Dataset
+
+The dataset used in this project is large (~470 MB) and is not included in this repository.
+
+👉 **Download Dataset from Google Drive:**  
+[Click here to download](https://drive.google.com/file/d/1yciEExKmEs8fjmH3cb2MIQqYldMpj4w7/view?usp=sharing)
